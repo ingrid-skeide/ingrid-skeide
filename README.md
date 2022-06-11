@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="300">
+</div>
+
+---
+
+<h2>About Me</h2>
+I am studying front-end development and I ❤️ coding and design. 
+* 30 years old
+* Sci-fi & fantasy geek
+* Love nature
+* Mom to a little girl 
+
+---
+
+<h2>My Projects</h2>
