@@ -48,4 +48,9 @@ I am studying front-end development and I ❤️ coding and design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-skeide&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contact
+
+Email: ingrid.skeide@gmail.com
+
+[My LinkedIn page](https://www.linkedin.com/in/ingrid-skeide-a94abb145/)
 
