@@ -1,4 +1,4 @@
-# Hello 👋 I'm Ingrid
+<h1 align="center"> Hello 👋 I'm Ingrid </h1>
 
 <!--
 **ingrid-skeide/ingrid-skeide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,11 +41,11 @@ I am studying front-end development and I ❤️ coding and design.
 
 <h2>My Projects</h2>
 
+- [Miamo blog](https://github.com/ingrid-skeide/miamo-website)
+- Temtem wiki (coming)
+
 <h2>My Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-skeide&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-skeide&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-skeide&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
