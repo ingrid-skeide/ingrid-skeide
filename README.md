@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ingrid-skeide/ingrid-skeide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +24,13 @@ Here are some ideas to get you started:
 <h2>About Me</h2>
 A web-development enthusiast that loves clean &amp; efficient code.
 I am studying front-end development and I ❤️ coding and design. 
-* 30 years old
-* Sci-fi & fantasy geek
-* Love nature
-* Mom to a little girl 
+- 30 years old
+- From Norway
+- Bachelor in English Lit
+- Front-end development student
+- Sci-fi & fantasy geek
+- Love nature
+- Mom to a little girl 
 
 ---
 
