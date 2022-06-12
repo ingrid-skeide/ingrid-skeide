@@ -39,7 +39,7 @@ I am studying front-end development and I ❤️ coding and design.
 
 <h2>My Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-skeide)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-skeide&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-skeide&theme=tokyonight)
 
