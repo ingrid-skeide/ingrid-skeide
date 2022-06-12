@@ -37,7 +37,7 @@ I am studying front-end development and I ❤️ coding and design.
 
 <h2>Languages & Tools</h2>
 
-![](/svg/html.svg)
+![](/svg/html.svg) ![](/svg/css.svg) ![](/svg/js.svg) ![](/svg/wp.svg)
 
 <h2>My Projects</h2>
 
